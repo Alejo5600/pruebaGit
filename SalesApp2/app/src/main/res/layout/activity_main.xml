@@ -43,9 +43,17 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Login"
+            android:text="Ingresar"
             android:id="@+id/button"
             android:layout_gravity="center_horizontal" />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Activo"
+            android:id="@+id/checkBox"
+            android:layout_gravity="right"
+            android:checked="false" />
     </LinearLayout>
 
     <ImageView
