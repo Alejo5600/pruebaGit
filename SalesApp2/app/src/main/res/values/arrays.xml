@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="f_pago">
+        <item> De contado</item>
+        <item> A credito</item>
+        <item> Medios Electronicos</item>
+    </string-array>
+</resources>
